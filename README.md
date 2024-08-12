@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kidcalebjacob
-- 👀 I’m interested in music, business and personal wellness
+- 👀 I’m interested in music and entertainment, business development and personal wellness
 - 🌱 I’m currently learning proxy and API coding
 - 💞️ I’m looking to collaborate on exciting projects and side hustles
 - 📫 How to reach me me@kidcalebjacob.com
