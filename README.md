@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kidcalebjacob
 - 👀 I’m interested in music and entertainment, business development and personal wellness
-- 🌱 I’m currently developing numerous Web Apps that work as CRM systems with AI data analysis, content, and media generation
+- 🌱 I’m currently developing numerous Web Apps which involve CRM systems, AI data analysis, and content and media generation
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me me@kidcalebjacob.com
 - 😄 Pronouns: He/him
