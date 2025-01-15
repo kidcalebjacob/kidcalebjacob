@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kidcalebjacob
 - 👀 I’m interested in music and entertainment, business development and personal wellness
-- 🌱 I’m currently learning proxy and API coding
-- 💞️ I’m looking to collaborate on exciting projects and side hustles
+- 🌱 I’m currently developing numerous Web Apps that work as CRM systems with AI data analysis, content, and media generation
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me me@kidcalebjacob.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am a talent manager and music producer
+- ⚡ Fun fact: I am also a signed music producer at Warner Music's 300 Entertainment
 
 <!---
 kidcalebjacob/kidcalebjacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
