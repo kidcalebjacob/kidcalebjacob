@@ -25,4 +25,4 @@ My work focuses on designing products and infrastructure that collect, process, 
 **Technologies:**
 TypeScript • Python • Next.js • Flutter • PostgreSQL • Supabase • AWS • Google Cloud • Cloudflare • Hetzner
 
-📫 [caleb@wallsentertainment.com](mailto:caleb@wallsentertainment.com)
+[caleb@wallsentertainment.com](mailto:caleb@wallsentertainment.com)
