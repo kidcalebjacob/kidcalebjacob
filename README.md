@@ -1,35 +1,28 @@
 # Caleb Jacob Chrapko
 
-Founder of WALLS Entertainment Group, building technology, data systems, and operational infrastructure for the creator economy.
+Founder of WALLS Entertainment Group and builder of software systems across analytics, AI, media, and business operations.
 
-My work focuses on designing and scaling software platforms, analytics systems, and AI-powered products across media, talent, and commerce.
+My work focuses on designing products and infrastructure that collect, process, enrich, and surface data at scale. I've built platforms spanning social analytics, AI-powered applications, business intelligence systems, workflow automation, and large-scale data collection.
 
 Areas of focus:
 
-* Creator intelligence and social analytics platforms
-* AI-powered content and media generation
-* Data enrichment and large-scale automation workflows
-* Cost-efficient cloud infrastructure and backend architecture
+* AI applications and content generation systems
+* Social analytics and audience intelligence
+* Data enrichment and classification platforms
+* Distributed job processing and workflow automation
+* Backend data collection and scraping infrastructure
 * Internal CRM, operations, and business intelligence systems
 
 Experience includes:
 
-* Building and operating high-traffic consumer platforms
-* Designing distributed job processing and data pipeline systems
-* Deploying scalable infrastructure across North America and Europe
-* Optimizing performance, reliability, and infrastructure costs at scale
-* Developing AI-assisted classification, tagging, and enrichment systems
+* Designing scalable backend systems and data pipelines
+* Building distributed worker architectures and queue-based processing systems
+* Operating cloud infrastructure across AWS, Google Cloud, Cloudflare, and Hetzner
+* Developing monitoring, enrichment, and intelligence platforms for large datasets
+* Implementing AI-assisted tagging, classification, and automation workflows
+* Optimizing infrastructure costs while maintaining performance and reliability at scale
 
-Primary technologies:
-
-* TypeScript
-* Next.js
-* Flutter
-* Python
-* PostgreSQL
-* Supabase
-* Google Cloud
-* Cloudflare
-* Hetzner
+Technologies:
+TypeScript • Python • Next.js • Flutter • PostgreSQL • Supabase • AWS • Google Cloud • Cloudflare • Hetzner
 
 📫 [caleb@wallsentertainment.com](mailto:caleb@wallsentertainment.com)
