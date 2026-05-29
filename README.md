@@ -1,25 +1,35 @@
-# Caleb Jacob
+# Caleb Jacob Chrapko
 
-Founder of WALLS Entertainment Group, building systems at the intersection of creators, media, and technology.
+Founder of WALLS Entertainment Group, building technology, data systems, and operational infrastructure for the creator economy.
 
-Currently focused on:
+My work focuses on designing and scaling software platforms, analytics systems, and AI-powered products across media, talent, and commerce.
+
+Areas of focus:
 
 * Creator intelligence and social analytics platforms
-* AI powered media and content generation tools
-* CRM, workflow automation, and internal business systems
-* Data enrichment and audience intelligence
-* Scalable web and mobile applications
+* AI-powered content and media generation
+* Data enrichment and large-scale automation workflows
+* Cost-efficient cloud infrastructure and backend architecture
+* Internal CRM, operations, and business intelligence systems
 
-Tech stack:
+Experience includes:
 
-* Next.js
-* Supabase
-* PostgreSQL
+* Building and operating high-traffic consumer platforms
+* Designing distributed job processing and data pipeline systems
+* Deploying scalable infrastructure across North America and Europe
+* Optimizing performance, reliability, and infrastructure costs at scale
+* Developing AI-assisted classification, tagging, and enrichment systems
+
+Primary technologies:
+
 * TypeScript
+* Next.js
 * Flutter
+* Python
+* PostgreSQL
+* Supabase
 * Google Cloud
-* Vercel
-
-Outside of software, I work across talent management, strategic partnerships, and media ventures through WALLS Entertainment Group.
+* Cloudflare
+* Hetzner
 
 📫 [caleb@wallsentertainment.com](mailto:caleb@wallsentertainment.com)
