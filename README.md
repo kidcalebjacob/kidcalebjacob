@@ -4,7 +4,7 @@ Founder of WALLS Entertainment Group and builder of software systems across anal
 
 My work focuses on designing products and infrastructure that collect, process, enrich, and surface data at scale. I've built platforms spanning social analytics, AI-powered applications, business intelligence systems, workflow automation, and large-scale data collection.
 
-Areas of focus:
+**Areas of focus:**
 
 * AI applications and content generation systems
 * Social analytics and audience intelligence
@@ -13,7 +13,7 @@ Areas of focus:
 * Backend data collection and scraping infrastructure
 * Internal CRM, operations, and business intelligence systems
 
-Experience includes:
+**Experience includes:**
 
 * Designing scalable backend systems and data pipelines
 * Building distributed worker architectures and queue-based processing systems
