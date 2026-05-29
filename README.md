@@ -22,7 +22,7 @@ Experience includes:
 * Implementing AI-assisted tagging, classification, and automation workflows
 * Optimizing infrastructure costs while maintaining performance and reliability at scale
 
-Technologies:
+**Technologies:**
 TypeScript • Python • Next.js • Flutter • PostgreSQL • Supabase • AWS • Google Cloud • Cloudflare • Hetzner
 
 📫 [caleb@wallsentertainment.com](mailto:caleb@wallsentertainment.com)
